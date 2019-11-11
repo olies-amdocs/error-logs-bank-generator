@@ -1,0 +1,3 @@
+_date,_route,_transaction_id,_user_email,_package,_error_message,_reason,_count
+"2019-11-08 20:38:56,400 ", v1-documents-retrieveDocumentByFilter , Txid :  , nfttestpet0470@amdocs.com , 361 - bil-core - 1.0.0.SNAPSHOT , Exchange ID-esb-document-667d6657c9-bggkh-35548-1573024136869-9-99884 failed for API null ,,1735
+"2019-11-08 20:38:56,407 ", v1-documents-retrieveDocumentByFilter , Txid :  , nfttestpet0470@amdocs.com , 331 - com.amdocs.sso.keycloak-adapter-custom - 4.8.3.Final-redhat-00001 , No response received from direct-vm:accountSegmentLookup,,144
